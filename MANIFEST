@@ -5,3 +5,4 @@ capitalization.pm
 t/00_compile.t
 t/01_capital.t
 t/lib/Module/LikeJava.pm
+META.yml                                 Module meta-data (added by MakeMaker)

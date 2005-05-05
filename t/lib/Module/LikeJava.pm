@@ -7,4 +7,12 @@ sub fooAndBar { }
 
 sub BarAndBAZ { }
 
+sub _Bar { }
+
+sub _Bar { }
+
+sub FOO { }
+
+sub FOObar { }
+
 1;
